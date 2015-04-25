@@ -1,0 +1,2 @@
+# LocalLog
+# android project
